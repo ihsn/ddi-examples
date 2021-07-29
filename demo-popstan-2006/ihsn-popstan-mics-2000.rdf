@@ -1,0 +1,2215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="other_materials\metadata_report.pdf">
+    <rdf:label>
+      Study Documentation PDF
+    </rdf:label>
+    <dc:title>
+      Study Documentation
+    </dc:title>
+    <dcterms:abstract>
+      Study documentation produced with the IHSN Microdata Management Toolkit's metadata reporting tools. Contains metadata on the survey, files, variables and documents.
+    </dcterms:abstract>
+    <dc:type>
+      Document, Report [doc/rep]
+    </dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\flow_of_questionnaire_modules.pdf">
+    <rdf:label>
+      Flow of questionnaire modules
+    </rdf:label>
+    <dc:title>
+      Flow of questionnaire modules
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Questionnaire [doc/qst]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\household_questionnaire.pdf">
+    <rdf:label>
+      Household questionnaire
+    </rdf:label>
+    <dc:title>
+      Household Questionnaire
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Questionnaire [doc/qst]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\womens_questionnaire.pdf">
+    <rdf:label>
+      Women's questionnaire
+    </rdf:label>
+    <dc:title>
+      Questionnaire for Individual Women
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Questionnaire [doc/qst]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\children_under5_questionnaire.pdf">
+    <rdf:label>
+      Children under-5 questionnaire
+    </rdf:label>
+    <dc:title>
+      Children under-5 questionnaire
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Questionnaire [doc/qst]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\cluster_control_sheet.pdf">
+    <rdf:label>
+      Cluster control sheet
+    </rdf:label>
+    <dc:title>
+      Cluster control sheet
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Questionnaire [doc/qst]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      MICS2 manual
+    </rdf:label>
+    <dc:title>
+      End-Decade Multiple Indicator Survey manual
+    </dc:title>
+    <dc:description>
+      This manual is based on A Practical Handbook for Multiple-Indicator Surveys prepared for monitoring progress toward the mid-decade goals of the World Summit for Children. It was expanded and revised to reflect all of the end-decade goals and to incorporate the experience gained in conducting some 60 Multiple Indicator Cluster Surveys (MICS) between 1995 and 1996. It also addresses specific challenges identified in the Evaluation of Multiple Indicator Cluster Surveys conducted in 1997, and it takes us an important step closer to measuring progress in the implementation of children’s rights.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Preface
+
+CHAPTER 1: INTRODUCTION
+The End-Decade Assessment: Background
+The Mid-Decade Experience
+Measurement of the Situation at End-Decade
+Developing a Core Set of Monitoring Indicators
+Appropriate Monitoring Tools
+Population Census Data
+Routine Health Service Data
+Epidemiological Surveillance Sites
+Routine Education System Data
+Household Sample Surveys
+The Role of the End-Decade MICS
+Tailoring the End-Decade MICS Surveys to Individual Country Situations
+National Capacities and Survey Use
+
+CHAPTER 2: DECISIONS TO MAKE BEFORE STARTING
+Identifying and Contacting Potential Resource Persons
+Deciding on the Level of Aggregation of the Indicators
+Estimating How Long the Survey Will Take
+Calculating How Much the Survey Will Cost
+
+CHAPTER 3: DESIGNING THE QUESTIONNAIRE
+Which WSC Goals Can Be Monitored With a Survey?
+A Model Questionnaire for End-Decade Monitoring
+Why Do We Need a Model Questionnaire?
+How Do I Design a Good Questionnaire?
+Decide How to Ask the Questions
+Adapting and Translating Questionnaires
+Pre-Testing the Questionnaire
+Decide Who the Respondents Will Be
+
+MULTIPLE INDICATOR CLUSTER SURVEY MANUAL
+The Model’s Questionnaire: What’s New
+
+Part I: Household Questionnaire
+Household Information Panel
+Household Listing Form
+Education Module (WSC Goal 6)
+Child Labour Module (Child Rights)
+Optional Child Disability Module (WSC Goal 8)
+Optional Maternal Mortality Module (WSC Goal 2)
+Water and Sanitation Module (WSC Goals 4 and 5)
+Salt Iodization Module (WSC Goal 14)
+
+Part II: Questionnaire for Individual Women
+Women’s Information Panel
+Child Mortality Module (WSC Goal 1)
+Tetanus Toxoid Module (WSC Goal 22)
+Maternal and Newborn Health Module (WSC Goals 11, 12 and 15)
+Contraceptive Use Module (WSC Goal 10)
+HIV/AIDS Module
+
+Part III: Questionnaire for Children Under Five
+Birth Registration (Child Rights) and Early Learning (WSC Goal 26)
+Vitamin A Module (WSC Goal 15)
+Breastfeeding Module (WSC Goal 16)
+Care of Illness Module (WSC Goals 23 and 24, IMCI)
+Malaria Module (For Use in Malaria High-Risk Areas)
+Immunization Module (WSC Goal 22)
+Anthropometry Module (WSC Goal 3)
+
+MODEL QUESTIONNAIRE
+Flow of Modules
+Design Features
+Household Questionnaire
+Household Information Panel
+Household Listing Form
+Education Module
+Child Labour Module Water and Sanitation Module
+Salt Iodization Module
+
+Questionnaire for Individual Women
+Women’s Information Panel
+Child Mortality Module
+Tetanus Toxoid (TT) Module
+Maternal and Newborn Health Module
+Contraceptive Use Module
+HIV/AIDS Module
+Questionnaire for Children Under Five
+Birth Registration and Early Learning Module
+Vitamin A Module
+Breastfeeding Module
+Care of Illness Module
+Malaria Module
+Immunization Module
+Anthropometry Module
+Cluster Control Sheet
+
+CHAPTER 4: DESIGNING AND SELECTING THE SAMPLE
+Features of a Proper, Probability Sample Design
+Determining What Sample to Use for MICS
+Use of an Existing Sample – Option 1
+A Specific Sample Design for MICS
+Standard Segment Design – Option 2
+Modified Segment Design – Option 3
+Shortcut Designs – Not Recommended
+Deciding on Sample Size, Number of PSUs, Cluster Sizes
+Calculating the Sample Size
+Defining and Choosing the Key Indicator to Calculate Sample Size
+Using the Sample Size Tables
+Illustrating Sample Size with Cluster Size and Number of PSUs
+Sample Size for Sub-national Estimates, Changes, Sub-group Analyses
+Preparing Estimates and Sampling Errors
+Need to Calculate Sampling Errors
+
+CHAPTER 5: PREPARING FOR DATA COLLECTION
+Making Logistics Arrangements
+Setting Up Headquarters
+Contacting Local Authorities
+Deciding on the Size and Composition of the Field Teams
+Arranging Transportation, Accommodations and Security
+Obtaining and Preparing Copies of Local Maps
+Preparing the Questionnaire
+Pre-Testing the Questionnaire
+Selecting the Fieldworkers
+Choosing and Preparing the Equipment
+Weighing Scales
+Length/Height Boards
+Salt Iodization Testing Kits
+Training the Fieldworkers
+Briefing the Drivers
+Carrying Out the Pilot Study
+Setting Up Computers and Hiring Data Processing Staff
+Making Arrangements for Returning the Questionnaires to Headquarters
+Plan Early to Obtain Supplementary Information
+Ethical Considerations
+
+CHAPTER 6: CONDUCTING THE FIELDWORK
+How to Map, Segment and List Households
+Creating Segments – Sample Options 2 and 3
+Field Procedures for Data Collection
+What Each Interviewer Should Do
+Conducting an Interview
+Building Rapport with the Respondent
+Tips for Conducting the Interview
+Field Procedures
+Preparatory Activities and Interviewers’ Control Sheets
+Contacting Households
+Identifying Eligible Respondents
+Making Callbacks
+Checking Completed Questionnaires
+Returning Work Assignments
+Supplies Required for Fieldwork
+What Each Supervisor and Editor Should Do
+Responsibilities of the Field Supervisor
+Responsibilities of the Field Editor
+
+CHAPTER 7: PROCESSING THE DATA
+Introduction
+Computer Equipment and Space
+Data Processing Personnel
+Adapting the Programs
+Organizing Data Processing Activities
+Receipt from the Field and Preparation for Entry
+Data Entry
+Verification
+Archiving of Unedited (‘Raw’) Data File
+Secondary Editing
+Archiving of Final Data File
+Receipt of Questionnaires from Field and Preparation for Data Entry
+Data Entry
+Data Editing
+Calculating Sampling Weights for Non-Self-Weighting Samples
+Creating Variables and Data Files
+Preparing for Running Tabulations
+Archiving and Distributing Data
+Consistency Checks and Guidelines for Correction
+Household Information Panel
+Household Listing Form
+Individual Questionnaires for Women and Children Under Five
+
+CHAPTER 8: ANALYSING THE DATA AND PRODUCING SURVEY REPORTS
+Reporting at End-Decade
+Analysing the Data: First Steps
+Producing a Preliminary Report
+Background and Objectives of the Survey 
+Results
+Sample and Methodology
+Circulation of the Preliminary Report and Dissemination of the Findings
+Producing the Full Technical Report
+The Executive Summary
+Introduction and Background
+Survey Methodology
+Data Quality and Sample Characteristics
+Results
+Sample Design and Implementation
+Questionnaires
+Circulation of the Full Report and Dissemination of the Findings
+Analysis Beyond the Full Report
+
+Background Information
+Precision of the Maternal Mortality Estimates
+The Reference Period
+Monitoring Progress Toward the Year 2000
+APPENDIX THREE: INDICATORS FOR GLOBAL REPORTING Definitions of Indicators for Global Reporting
+World Summit for Children End-Decade Indicators
+Additional Indicators for Monitoring Children’s Rights
+IMCI Indicators (Under-fives)
+Indicators for Monitoring HIV/AIDS (Women 15–49)
+
+APPENDIX FOUR: ANTHROPOMETRIC TECHNIQUES The UNICEF Electronic Scale 890 (Manual)
+Instructions for Supervisors
+Nutritional Status Measurement Summary Procedures
+Child Height Summary Procedure
+Child Length Summary Procedure
+
+APPENDIX FIVE: INSTRUCTIONS FOR SUPERVISORS Introduction to the MICS Surveys
+
+MULTIPLE INDICATOR CLUSTER SURVEY MANUAL
+Responsibilities of the Field Supervisor
+Responsibilities of the Editor
+Preparing for Fieldwork
+Collecting Materials for Fieldwork
+Monetary Advances for Field Expenses
+Arranging Transportation and Accommodations
+Contacting Local Authorities
+Using Maps to Locate Clusters
+Finding Selected Households
+Organizing and Supervising Fieldwork
+Assigning Work to Interviewers
+Reducing Nonresponse
+Handling Pending Interviews
+Maintaining Motivation and Morale
+Maintaining Fieldwork Control Sheets
+Supervisor’s Control Sheet
+Assignmentof Interviews
+Household Visits and Individual Interviews: Columns 4–8
+Remarks: Column 9
+Interviewer’s Cluster Control Sheet
+Systematic Spot-Checking of Household Composition
+Monitoring Interviewer Performance
+Observing Interviews
+Evaluating Interviewer Performance
+Editing Questionnaires
+General Instructions
+Editing the Household Questionnaire
+Editing the Questionnaire for Individual Women
+Editing the Children Under Five Questionnaire
+Organizing Questionnaires for Return to the Office
+Forwarding Questionnaires to the Head Office
+Annex 1: Limits for Length and Weight of Children
+Annex 2: MICS2 Supervisor’s/Editor’s Control Sheet
+Annex 3: Interviewer’s Cluster Control Sheet
+
+APPENDIX SIX: TABULATION GUIDELINES
+TABLE OF CONTENTS 11
+List of Tables
+World Summit Goal Indicators by Table Number
+Tables Recommended for Inclusion in a Preliminary Report
+General Tabulation Notes
+APPENDIX SEVEN: SAMPLING DETAILS Sampling Details
+Sample Size Calculation
+Procedures for Sampling with PPS – Option 2
+Procedures for Sampling with PPS – Option 3
+Computation of Post-Stratification Weights
+Alternative (i) Weighting at the Sample Case Level
+Alternative (ii) Weighting at the Aggregation of Indicators Level]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      This manual is intended to assist UNICEF staff, in their work with national counterparts and other partners, in measuring progress for children and women at end-decade through the use of household surveys. It provides a systematic approach to carrying out a household survey to fill gaps in the data necessary for reporting on the situation of children and women at the end of the millennium, and for laying down a base from which to measure change in the next decade and beyond. The end-decade assessment derives its primary focus from the World Summit for Children (WSC), held in New York in September 1990, at which 71 Heads of State and government and 88 senior officials from countries around the world pledged themselves to a Declaration and Plan of Action for Children. That commitment has now been made by 158 Heads of State, and countries around the world have proceeded to develop their own National Programmes of Action for children. Today these National Programmes of Action encompass 9 out of every 10 children on earth.
+    </dcterms:abstract>
+    <dc:creator>
+      UNICEF, Division of Evaluation, Policy and Planning Programme Division
+    </dc:creator>
+    <dc:contributor>
+      The production of this manual was coordinated by UNICEF’s Division of Evaluation, Policy and Planning, with input from Programme Division and the UNICEF Regional Offices. The text of the manual was drafted by a number of individuals. Dr. Patricia David deserves special recognition; she was instrumental in the development of the mid-decade manual, and was largely responsible for the initial draft of the end-decade model questionnaire, as well as drafting Chapters 2, 3 and 5 and Appendices One, Two and Three of the manual. The remaining chapters were written by Ann Blanc (Chapters 7 and 8 and Appendix Six), Gareth Jones (Chapter 1), Cindy Stanton (Appendix Two on Measuring Maternal Mortality), and Anthony G. Turner (Chapters 4 and 6 and Appendix Seven). Appendix Five was adapted from the Supervisor’s Manual developed for the Demographic and Health Surveys (DHS), and parts of Appendix Four were taken from Annex 1 in How to Weigh and Measure Children.1 Petra Morrison and Jessica Stolzberg edited the manuscript and Kia Weinstein formatted the questionnaire. The manual also benefitted from the collaborative contributions of a number of agencies, including the World Health Organization (WHO), the United States Agency for International Development (USAID), MEASURE/DHS+, UNAIDS, MEASURE/Evaluation, UNESCO Institute of Statistics, the International Labour Organization (ILO), and the Centers for Disease Control and Prevention of the U.S. Public Health Service (CDC) and Columbia University. We would like to acknowledge in particular the contributions of the following individuals in the development of the questionnaire: Kebebew Ashagrie (ILO), Amy Cunningham (MEASURE/Evaluation), Michael Deming (CDC), Maureen Durkin (Columbia University), Thierry Lambrechts (WHO), Denise Lievesley (UNESCO Statistical Institute), and Bernhard Schwartlander (UNAIDS). A Technical Advisory Group guided the development of the questionnaire which benefitted in particular from comments provided by Ties Boerma, Laurence Grummer Strawn, Elizabeth Holt, Elisabeth Sommerfelt, Kevin Sullivan, Martin Vaessen, and Cesar Victora. The questionnaire modules were also circulated to UNICEF regional offices and were presented in several MICS workshops, which elicited useful feedback. Graham Kalton, Vijay Verma and Steve Bennett provided critical input to Chapter 4 and Appendix Seven on Sampling. Elizabeth Holt greatly facilitated our invaluable collaboration with the Demographic and Health Surveys programme and provided very useful comments on earlier drafts of the questionnaire. We appreciate the help of Joy Riggs Perla in making possible the financial support from USAID that aided the development of both manual and questionnaire. The manual was translated into French by Mohamed Ayad and into Spanish by Luis Ochoa. Tessa Wardlaw, Gareth Jones, Edilberto Loaiza and Roeland Monasch of the Division of Evaluation, Policy and Planning, contributed through reviewing, revising, formatting, organizing, as well as covering all the small but critical elements that go into the development of a practical survey manual and questionnaire with worldwide applicability.
+    </dc:contributor>
+    <dcterms:created>
+      2000-02-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+    <dc:rights>
+      <![CDATA[Copyright © 2000 
+United Nations Children’s Fund 
+3 UN Plaza 
+New York, NY 10017 USA]]>
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      MICS2 manual - Appendices
+    </rdf:label>
+    <dc:title>
+      MICS2 manual - Appendices
+    </dc:title>
+    <dc:description>
+      Appendices to document "MICS2 manual"
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[APPENDIX ONE: INSTRUCTIONS FOR INTERVIEWERS 
+How to Handle an Interview
+General Points
+How to Fill In the Household Questionnaire
+Household Information Panel
+Household Listing Form
+Education Module
+Child Labor Module
+Water and Sanitation Module
+Salt Iodization Module
+How to Fill In the Women’s Questionnaire
+Women’s Information Panel
+Child Mortality Module
+Tetanus Toxoid (TT) Module
+Maternal and Newborn Health Module
+Contraceptive Use Module
+HIV/AIDS Module
+How to Fill In the Questionnaire for Children Under Five
+Birth Registration and Early Learning Module
+Vitamin A Module
+Breastfeeding Module
+Care of Illness Module
+Malaria Module
+Immunization Module
+Anthropometry Module
+Filling In the Cluster Control Sheet
+
+APPENDIX TWO: OPTIONAL QUESTIONS AND QUESTION MODULES 
+Additional Questions for Vitamin A Module
+Food Fortification
+Night Blindness
+Disability Modules
+References
+Maternal Mortality
+Instructions to Interviewers
+Reasons Why the MICS Survey Program Recommends Indirect Estimation of Maternal Mortality
+Guidance Notes on the Interpretation of the Sisterhood Maternal Mortality Estimates from the MICS Module
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      MICS2 Data Editing Guidelines
+    </rdf:label>
+    <dc:title>
+      MICS2 Data Editing Guidelines
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      Assessing the economic status of households
+    </rdf:label>
+    <dc:title>
+      Assessing the economic status of households
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      EPI Info
+    </rdf:label>
+    <dc:title>
+      End Decade Multiple Indicator Data Processing Manual - EPI Info
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      IMPS
+    </rdf:label>
+    <dc:title>
+      End Decade Multiple Indicator Data Processing Manual - IMPS
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      ISSA
+    </rdf:label>
+    <dc:title>
+      End Decade Multiple Indicator Data Processing Manual - ISSA
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Technical [doc/tec]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      ISSA
+    </rdf:label>
+    <dc:title>
+      ISSA
+    </dc:title>
+    <dc:description>
+      <![CDATA[The generic data processing system for MICS allows a country to choose from three well-known programs for data entry and editing tasks: EpiInfo; IMPS and ISSA. SPSS program code is provided for producing tabulations from the resulting "cleaned" survey data file.
+
+Notes:
+- MICS specific documentation is available as a pdf (Acrobat) file 
+- MICS specific programs are available as a zipped file, which unzips into a subdirectory MICS/ISSA
+
+]]>
+    </dc:description>
+    <dc:creator>
+      UNICEF and DHS/Macro International
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Compressed, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      Program [prg]
+    </dc:type>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      IMPS A
+    </rdf:label>
+    <dc:title>
+      IMPS A
+    </dc:title>
+    <dc:description>
+      <![CDATA[The generic data processing system for MICS allows a country to choose from three well-known programs for data entry and editing tasks: EpiInfo; IMPS and ISSA. SPSS program code is provided for producing tabulations from the resulting "cleaned" survey data file.
+
+Notes:
+- IMPS Manuals can be downloaded from the IPC website (www.census.gov/ipc/www/imps/download.htm)
+- MICS specific documentation is available as a pdf (Acrobat) file
+- MICS specific programs are available as two zipped files (impsa1.zip and impsa2.zip), which unzip into a subdirectory MICS/IMPS 
+
+
+]]>
+    </dc:description>
+    <dc:creator>
+      UNICEF and DHS/Macro International
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Compressed, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      program [prg]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      IMPS B
+    </rdf:label>
+    <dc:title>
+      IMPS B
+    </dc:title>
+    <dc:description>
+      The generic data processing system for MICS allows a country to choose from three well-known programs for data entry and editing tasks: EpiInfo; IMPS and ISSA. SPSS program code is provided for producing tabulations from the resulting "cleaned" survey data file.
+    </dc:description>
+    <dc:creator>
+      UNICEF and DHS/Macro International
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Compressed, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      program [prg]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      EPI Info
+    </rdf:label>
+    <dc:title>
+      EPI Info
+    </dc:title>
+    <dc:description>
+      <![CDATA[The generic data processing system for MICS allows a country to choose from three well-known programs for data entry and editing tasks: EpiInfo; IMPS and ISSA. SPSS program code is provided for producing tabulations from the resulting "cleaned" survey data file.
+
+Notes: 
+- EPI Info Manuals can be downloaded from the CDC website (www.cdc.gov/epo/epi/downepi6.htm)
+- MICS specific documentation is available as a pdf (Acrobat) file 
+- MICS specific programs are available as a zipped file, which unzips into a subdirectory MICS/EPIINFO
+]]>
+    </dc:description>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Compressed, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      program [prg]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      SPSS
+    </rdf:label>
+    <dc:title>
+      SPSS
+    </dc:title>
+    <dc:description>
+      <![CDATA[The generic data processing system for MICS allows a country to choose from three well-known programs for data entry and editing tasks: EpiInfo; IMPS and ISSA. This SPSS program code provided for producing tabulations from the resulting "cleaned" survey data file.
+
+Note: MICS specific programs are available as a zipped file, which unzips into a subdirectory MICS/SPSS. 
+]]>
+    </dc:description>
+    <dc:creator>
+      UNICEF and DHS/Macro International
+    </dc:creator>
+    <dc:format>
+      Compressed, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      Program [prg]
+    </dc:type>
+    <dc:language>
+      english [eng]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      Model Preliminary Report
+    </rdf:label>
+    <dc:title>
+      Multiple Indicator Cluster Survey - Model Preliminary Report
+    </dc:title>
+    <dcterms:tableOfContents>
+      <![CDATA[Acknowledgements
+
+I.  Background
+    Introduction
+    Survey Objectives 
+
+II. Sample and Survey Methodology 
+    Sample Design 
+    Questionnaires 
+    Fieldwork and Processing 
+    Sample Coverage 
+    Characteristics of the Respondents 
+ 
+II. Results 
+    Primary School Attendance 
+    Water and Sanitation
+    Nutritional Status 
+    Breastfeeding 
+    Vitamin A Supplementation 
+    Salt Iodization 
+    Immunization Coverage
+    Knowledge of HIV/AIDS Transmission
+    Assistance at Delivery
+    Birth Registration]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2004-09-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Report [doc/rep]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      Model Full Report
+    </rdf:label>
+    <dc:title>
+      Multiple Indicator Cluster Survey - Model Full Report
+    </dc:title>
+    <dcterms:tableOfContents>
+      <![CDATA[List of Figures
+Foreword and Acknowledgements
+Executive Summary
+Summary Indicators
+
+I. Introduction 
+  Background of the Survey 
+  [Country] Background 
+  Survey Objectives 
+
+II. Survey Methodology 
+  Sample Design 
+  Questionnaires 
+  Fieldwork and Processing 
+ 
+III. Sample Characteristics and Data Quality
+  Response Rates 
+  Age Distribution and Missing Data 
+  Characteristics of the Household Population 
+ 
+IV. Results 
+  A. Infant and Under-Five Mortality
+  B. Education
+    Early childhood education 
+    Basic education 
+    Literacy 
+  C. Water and Sanitation 
+    Use of drinking water
+    Use of sanitation 
+  D. Child Malnutrition
+    Nutritional status
+    Breastfeeding 
+    Salt iodization 
+    Vitamin A supplementation 
+    Low birth weight
+  E. Child Health 
+    Immunization coverage
+    Diarrhea 
+    Acute respiratory infection 
+    IMCI initiative 
+    Malaria 
+  F. HIV/AIDS
+    AIDS knowledge
+    AIDS testing
+  G. Reproductive Health 
+    Contraception
+    Prenatal care
+    Assistance at delivery 
+  H. Child Rights 
+    Birth registration 
+    Orphanhood and living arrangements of children
+    Child labor 
+
+Appendix A: Sample Design 
+Appendix B: List of Personnel Involved in the [Country] MICS 
+Appendix C: Questionnaires ]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2004-09-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Report [doc/rep]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Demo file - link to UNICEF website.pdf">
+    <rdf:label>
+      Model Full Report - Tables
+    </rdf:label>
+    <dc:title>
+      Multiple Indicator Cluster Survey - Model Full Report - Tables
+    </dc:title>
+    <dcterms:tableOfContents>
+      <![CDATA[Table 1: Number of households and women, and response rates, Country, Year 
+Table 2: Single year age distribution of household population by sex, Country, Year 
+Table 3: Percentage of cases with missing information, Country, Year 
+Table 4: Percent distribution of households by background characteristics, Country, Year
+Table 5: Percent distribution of women 15-49 by background characteristics, Country, Year
+Table 6: Percent distribution of children under 5 by background characteristics, Country, Year
+Table 7: Mean number of children ever born (CEB) and proportion dead by mother's age, Country, Year
+Table 8: infant and under-five mortality rates 
+Table 9: Percentage of children aged 36-59 months who are attending some form of organized early childhood education programme, Country, Year 
+Table 10: Percentage of children of primary school age attending primary school, Country, Year 
+Table 11: Percentage of children entering first grade of primary school who eventually reach grade 5, Country, Year
+Table 12: Percentage of the population aged 15 years and older that is literate, Country, Year
+Table 13: Percentage of the population using improved drinking water sources, Country, Year 
+Table 14: Percentage of the population using sanitary means of excreta disposal, Country, Year 
+Table 15: Percentage of under-five children who are severely or moderately undernourished, Country, Year 
+Table 16: Percent of living children by breastfeeding status, Country, Year
+Table 17: Percentage of households consuming adequately iodized salt, Country, Year 
+Table 18: Percent distribution of children aged 6-59 months by whether they have received a high dose Vitamin A supplement in the last 6 months, Country, Year 
+Table 19: Percentage of women with a birth in the last 12 months by whether they received a high dose Vitamin A supplement before the infant was 8 weeks old, Country, Year
+Table 20: Percentage of live births in the last 12 months that weighed below 2500 grams at birth, Country, Year
+Table 21: Percentage of children age 12-23 months immunized against childhood diseases at any time before the survey and before the first birthday, Country, Year
+Table 22: Percentage of children age 12-23 months currently vaccinated against childhood diseases, Country, Year
+Table 23: Percentage of under-five children with diarrhea in the last two weeks and treatment with ORS or ORT, Country, Year 
+Table 24: Percentage of under-five children with diarrhea in the last two weeks who took increased fluids and continued to feed during the episode, Country, Year 
+Table 25: Percentage of under-five children with acute respiratory infection in the last two weeks and treatment by health providers, Country, Year
+Table 26: Percentage of children 0-59 months of age reported ill during the last two weeks who received increased fluids and continued feeding,
+Country, Year 
+Table 27: Percentage of caretakers of children 0-59 months who know at least 2 signs for seeking care immediately, Country, Year 
+Table 28: Percentage of children 0-59 months of age who slept under an insecticide-impregnated bednet during the previous night, Country, Year
+Table 29: Percentage of children 0-59 months of age who were ill with fever in the last two weeks who received anti-malarial drugs, Country, Year 
+Table 30: Percentage of women aged 15-49 who know the main ways of preventing HIV transmission, Country, Year 
+Table 31: Percentage of women aged 15-49 who correctly identify misconceptions about HIV/AIDS, Country, Year 
+Table 32: Percentage of women aged 15-49 who correctly identify means of HIV transmission from mother to child, Country, Year 
+Table 33: Percentage of women aged 15-49 who express a discriminatory attitude towards people with HIV/AIDS, Country, Year 
+Table 34: Percentage of women aged 15-49 who have sufficient knowledge of HIV/AIDS transmission, Country, Year
+Table 35: Percentage of women aged 15-49 who know where to get an AIDS test and who have been tested, Country, Year
+Table 36: Percentage of married or in union women aged 15-49 who are using (or whose partner is using) a contraceptive method, Country, Year
+Table 37: Percentage of mothers with a birth in the last 12 months protected against neonatal tetanus, Country, Year
+Table 38: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel delivering antenatalccare, Country, Year 
+Table 39: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel assisting at delivery, Country, Year
+Table 40: Percent distribution of children aged 0-59 months by whether birth is registered and reasons for non-registration, Country, Year
+Table 41: Percentage of children 0-14 years of age in households not living with a biological parent, Country, Year 
+Table 42 Percentage of children 5-14 years of age who are currently working, Country, Year ]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2004-09-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Document, Report [doc/rep]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table01.pdf">
+    <rdf:label>
+      Table 1 - Number of households and women, and response rates, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 1 - Number of households and women, and response rates, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Table [tbl]
+    </dc:type>
+    <dc:language>
+      English [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table02.pdf">
+    <rdf:label>
+      Table 2: Single year age distribution of household population by sex, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 2: Single year age distribution of household population by sex, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table03.pdf">
+    <rdf:label>
+      Table 3: Percentage of cases with missing information, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 3: Percentage of cases with missing information, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table04.pdf">
+    <rdf:label>
+      Table 4: Percent distribution of households by background characteristics, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 4: Percent distribution of households by background characteristics, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Video [vid]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table05.pdf">
+    <rdf:label>
+      Table 5: Percent distribution of women 15-49 by background characteristics, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 5: Percent distribution of women 15-49 by background characteristics, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table06.pdf">
+    <rdf:label>
+      Table 6: Percent distribution of children under 5 by background characteristics, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 6: Percent distribution of children under 5 by background characteristics, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table07.pdf">
+    <rdf:label>
+      Table 7: Mean number of children ever born (CEB) and proportion dead by mother's age, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 7: Mean number of children ever born (CEB) and proportion dead by mother's age, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table08.pdf">
+    <rdf:label>
+      Table 8: infant and under-five mortality rates
+    </rdf:label>
+    <dc:title>
+      Table 8: infant and under-five mortality rates
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table09.pdf">
+    <rdf:label>
+      Table 9: Percentage of children aged 36-59 months who are attending some form of organized early childhood education programme, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 9: Percentage of children aged 36-59 months who are attending some form of organized early childhood education programme, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table10.pdf">
+    <rdf:label>
+      Table 10: Percentage of children of primary school age attending primary school, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 10: Percentage of children of primary school age attending primary school, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table11.pdf">
+    <rdf:label>
+      Table 11: Percentage of children entering first grade of primary school who eventually reach grade 5, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 11: Percentage of children entering first grade of primary school who eventually reach grade 5, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table12.pdf">
+    <rdf:label>
+      Table 12: Percentage of the population aged 15 years and older that is literate, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 12: Percentage of the population aged 15 years and older that is literate, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table13.pdf">
+    <rdf:label>
+      Table 13: Percentage of the population using improved drinking water sources, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 13: Percentage of the population using improved drinking water sources, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table14.pdf">
+    <rdf:label>
+      Table 14: Percentage of the population using sanitary means of excreta disposal, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 14: Percentage of the population using sanitary means of excreta disposal, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table15.pdf">
+    <rdf:label>
+      Table 15: Percentage of under-five children who are severely or moderately undernourished, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 15: Percentage of under-five children who are severely or moderately undernourished, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table16.pdf">
+    <rdf:label>
+      Table 16: Percent of living children by breastfeeding status, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 16: Percent of living children by breastfeeding status, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table17.pdf">
+    <rdf:label>
+      Table 17: Percentage of households consuming adequately iodized salt, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 17: Percentage of households consuming adequately iodized salt, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table18.pdf">
+    <rdf:label>
+      Table 18: Percent distribution of children aged 6-59 months by whether they have received a high dose Vitamin A supplement in the last 6 months, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 18: Percent distribution of children aged 6-59 months by whether they have received a high dose Vitamin A supplement in the last 6 months, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table19.pdf">
+    <rdf:label>
+      Table 19: Percentage of women with a birth in the last 12 months by whether they received a high dose Vitamin A supplement before the infant was 8 weeks old, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 19: Percentage of women with a birth in the last 12 months by whether they received a high dose Vitamin A supplement before the infant was 8 weeks old, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table20.pdf">
+    <rdf:label>
+      Table 20: Percentage of live births in the last 12 months that weighed below 2500 grams at birth, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 20: Percentage of live births in the last 12 months that weighed below 2500 grams at birth, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table21.pdf">
+    <rdf:label>
+      Table 21: Percentage of children age 12-23 months immunized against childhood diseases at any time before the survey and before the first birthday, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 21: Percentage of children age 12-23 months immunized against childhood diseases at any time before the survey and before the first birthday, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table22.pdf">
+    <rdf:label>
+      Table 22: Percentage of children age 12-23 months currently vaccinated against childhood diseases, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 22: Percentage of children age 12-23 months currently vaccinated against childhood diseases, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table23.pdf">
+    <rdf:label>
+      Table 23: Percentage of under-five children with diarrhea in the last two weeks and treatment with ORS or ORT, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 23: Percentage of under-five children with diarrhea in the last two weeks and treatment with ORS or ORT, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table24.pdf">
+    <rdf:label>
+      Table 24: Percentage of under-five children with diarrhea in the last two weeks who took increased fluids and continued to feed during the episode, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 24: Percentage of under-five children with diarrhea in the last two weeks who took increased fluids and continued to feed during the episode, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table25.pdf">
+    <rdf:label>
+      Table 25: Percentage of under-five children with acute respiratory infection in the last two weeks and treatment by health providers, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 25: Percentage of under-five children with acute respiratory infection in the last two weeks and treatment by health providers, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Postan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table26.pdf">
+    <rdf:label>
+      Table 26: Percentage of children 0-59 months of age reported ill during the last two weeks who received increased fluids and continued feeding,
+    </rdf:label>
+    <dc:title>
+      Table 26: Percentage of children 0-59 months of age reported ill during the last two weeks who received increased fluids and continued feeding,
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table27.pdf">
+    <rdf:label>
+      Table 27: Percentage of caretakers of children 0-59 months who know at least 2 signs for seeking care immediately, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 27: Percentage of caretakers of children 0-59 months who know at least 2 signs for seeking care immediately, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table28.pdf">
+    <rdf:label>
+      Table 28: Percentage of children 0-59 months of age who slept under an insecticide-impregnated bednet during the previous night, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 28: Percentage of children 0-59 months of age who slept under an insecticide-impregnated bednet during the previous night, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table29.pdf">
+    <rdf:label>
+      Table 29: Percentage of children 0-59 months of age who were ill with fever in the last two weeks who received anti-malarial drugs, Country,
+    </rdf:label>
+    <dc:title>
+      Table 29: Percentage of children 0-59 months of age who were ill with fever in the last two weeks who received anti-malarial drugs, Country,
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table30.pdf">
+    <rdf:label>
+      Table 30: Percentage of women aged 15-49 who know the main ways of preventing HIV transmission, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 30: Percentage of women aged 15-49 who know the main ways of preventing HIV transmission, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table31.pdf">
+    <rdf:label>
+      Table 31: Percentage of women aged 15-49 who correctly identify misconceptions about HIV/AIDS, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 31: Percentage of women aged 15-49 who correctly identify misconceptions about HIV/AIDS, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table32.pdf">
+    <rdf:label>
+      Table 32: Percentage of women aged 15-49 who correctly identify means of HIV transmission from mother to child, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 32: Percentage of women aged 15-49 who correctly identify means of HIV transmission from mother to child, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table33.pdf">
+    <rdf:label>
+      Table 33: Percentage of women aged 15-49 who express a discriminatory attitude towards people with HIV/AIDS, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 33: Percentage of women aged 15-49 who express a discriminatory attitude towards people with HIV/AIDS, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table34.pdf">
+    <rdf:label>
+      Table 34: Percentage of women aged 15-49 who have sufficient knowledge of HIV/AIDS transmission, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 34: Percentage of women aged 15-49 who have sufficient knowledge of HIV/AIDS transmission, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table35.pdf">
+    <rdf:label>
+      Table 35: Percentage of women aged 15-49 who know where to get an AIDS test and who have been tested, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 35: Percentage of women aged 15-49 who know where to get an AIDS test and who have been tested, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table36.pdf">
+    <rdf:label>
+      Table 36: Percentage of married or in union women aged 15-49 who are using (or whose partner is using) a contraceptive method, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 36: Percentage of married or in union women aged 15-49 who are using (or whose partner is using) a contraceptive method, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table37.pdf">
+    <rdf:label>
+      Table 37: Percentage of mothers with a birth in the last 12 months protected against neonatal tetanus, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 37: Percentage of mothers with a birth in the last 12 months protected against neonatal tetanus, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table38.pdf">
+    <rdf:label>
+      Table 38: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel delivering antenatalccare, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 38: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel delivering antenatalccare, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table39.pdf">
+    <rdf:label>
+      Table 39: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel assisting at delivery, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 39: Percent distribution of women aged 15-49 with a birth in the last year by type of personnel assisting at delivery, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table40.pdf">
+    <rdf:label>
+      Table 40: Percent distribution of children aged 0-59 months by whether birth is registered and reasons for non-registration, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 40: Percent distribution of children aged 0-59 months by whether birth is registered and reasons for non-registration, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table41.pdf">
+    <rdf:label>
+      Table 41: Percentage of children 0-14 years of age in households not living with a biological parent, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 41: Percentage of children 0-14 years of age in households not living with a biological parent, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\table42.pdf">
+    <rdf:label>
+      Table 42 Percentage of children 5-14 years of age who are currently working, Country, Year
+    </rdf:label>
+    <dc:title>
+      Table 42 Percentage of children 5-14 years of age who are currently working, Country, Year
+    </dc:title>
+    <dc:creator>
+      UNICEF
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Document, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      table [tbl]
+    </dc:type>
+    <dc:language>
+      english [en]
+    </dc:language>
+    <dcterms:spatial>
+      Popstan
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Photo01.gif">
+    <rdf:label>
+      Farming family
+    </rdf:label>
+    <dc:title>
+      Farming family
+    </dc:title>
+    <dc:description>
+      <![CDATA[A farming family poses during a break in planting corn Yarula, some 180 kilometers from Tegucigalpa.
+]]>
+    </dc:description>
+    <dc:creator>
+      Photographer: Alfredo Srur
+    </dc:creator>
+    <dc:format>
+      Image, GIF [image/gif]
+    </dc:format>
+    <dc:type>
+      Photo [pic]
+    </dc:type>
+    <dc:rights>
+      © The World Bank Group, All Rights Reserved.
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Photo02.gif">
+    <rdf:label>
+      Women harvest pineapples
+    </rdf:label>
+    <dc:title>
+      Women harvest pineapples
+    </dc:title>
+    <dc:description>
+      <![CDATA[A group of women harvest pineapples in their cooperative in Garifuna. The women have formed a cooperative to jointly cultivate and then market these goods.
+]]>
+    </dc:description>
+    <dc:creator>
+      Photographer: Sebastian Szyd
+    </dc:creator>
+    <dc:format>
+      Image, GIF [image/gif]
+    </dc:format>
+    <dc:type>
+      Photo [pic]
+    </dc:type>
+    <dc:rights>
+      © The World Bank Group, All Rights Reserved.
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Photo03.gif">
+    <rdf:label>
+      Asientamiento Rural Fortaleza
+    </rdf:label>
+    <dc:title>
+      Asientamiento Rural Fortaleza
+    </dc:title>
+    <dc:description>
+      <![CDATA[Joaquin Oliveira picks coffee beans in a site called "Asientamiento Rural Fortaleza" taken over by the people to work the land, located 70 kilometers from Ilheus, in Bahia State, Brazil.
+]]>
+    </dc:description>
+    <dc:creator>
+      Photographer: Alejandro Lipszyc
+    </dc:creator>
+    <dc:type>
+      Photo [pic]
+    </dc:type>
+    <dc:rights>
+      © The World Bank Group, All Rights Reserved.
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Map01.gif">
+    <rdf:label>
+      Capital city
+    </rdf:label>
+    <dc:title>
+      Capital city - Sattelite image
+    </dc:title>
+    <dc:description>
+      Map provided as an example (aerial photo of Bamako)
+    </dc:description>
+    <dc:creator>
+      Google (http://maps.google.com/)
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Image, GIF [image/gif]
+    </dc:format>
+    <dc:type>
+      Map [map]
+    </dc:type>
+    <dc:rights>
+      Google (http://maps.google.com/)
+    </dc:rights>
+  </rdf:Description>
+  <rdf:Description rdf:about="other_materials\Map02.gif">
+    <rdf:label>
+      Other city
+    </rdf:label>
+    <dc:title>
+      Other city - Sattelite image
+    </dc:title>
+    <dc:description>
+      Map provided as an example (aerial photo of Bangkok)
+    </dc:description>
+    <dc:creator>
+      Google (http://maps.google.com/)
+    </dc:creator>
+    <dcterms:created>
+      2000-01-01
+    </dcterms:created>
+    <dc:format>
+      Image, GIF [image/gif]
+    </dc:format>
+    <dc:type>
+      Map [map]
+    </dc:type>
+    <dc:rights>
+      Google (http://maps.google.com/)
+    </dc:rights>
+  </rdf:Description>
+</rdf:RDF>
