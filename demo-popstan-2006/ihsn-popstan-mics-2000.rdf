@@ -2212,4 +2212,36 @@ Table 42 Percentage of children 5-14 years of age who are currently working, Cou
       Google (http://maps.google.com/)
     </dc:rights>
   </rdf:Description>
+  <rdf:Description rdf:about="C:\Users\WB329102\Downloads\Nesstar Popstan\data\Household listing.dta">
+    <rdf:label>
+      Household listing stata file
+    </rdf:label>
+    <dc:title>
+      Household listing stata file
+    </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Users\WB329102\Downloads\Nesstar Popstan\data\Household listing.csv">
+    <rdf:label>
+      Household listing CSV file
+    </rdf:label>
+    <dc:title>
+      Household listing csv file
+    </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Users\WB329102\Downloads\Nesstar Popstan\data\Household.csv">
+    <rdf:label>
+      Household csv
+    </rdf:label>
+    <dc:title>
+      Household CSV
+    </dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Users\WB329102\Downloads\Nesstar Popstan\data\Household.sav">
+    <rdf:label>
+      Household SPSS
+    </rdf:label>
+    <dc:title>
+      Household SPSS
+    </dc:title>
+  </rdf:Description>
 </rdf:RDF>

@@ -325,7 +325,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
       </useStmt>
     </dataAccs>
   </stdyDscr>
-  <fileDscr ID="F3" URI="Popstan MICS 2000.Nesstar?Index=0&amp;Name=Household">
+  <fileDscr ID="F3" URI="ihsn-popstan-mics-2000.Nesstar?Index=0&amp;Name=Household">
     <fileTxt>
       <fileName>
         Household.NSDstat
@@ -345,7 +345,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
         </varQnty>
       </dimensns>
       <fileType>
-        Nesstar 200401
+        Nesstar 200801
       </fileType>
       <filePlac>
         Popstan Central Statistics Office
@@ -357,7 +357,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
       </verStmt>
     </fileTxt>
   </fileDscr>
-  <fileDscr ID="F5" URI="Popstan MICS 2000.Nesstar?Index=1&amp;Name=Household listing">
+  <fileDscr ID="F5" URI="ihsn-popstan-mics-2000.Nesstar?Index=1&amp;Name=Household listing">
     <fileTxt>
       <fileName>
         Household listing.NSDstat
@@ -377,7 +377,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
         </varQnty>
       </dimensns>
       <fileType>
-        Nesstar 200401
+        Nesstar 200801
       </fileType>
       <filePlac>
         Popstan Central Statistics Office
@@ -389,7 +389,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
       </verStmt>
     </fileTxt>
   </fileDscr>
-  <fileDscr ID="F1" URI="Popstan MICS 2000.Nesstar?Index=2&amp;Name=Women">
+  <fileDscr ID="F1" URI="ihsn-popstan-mics-2000.Nesstar?Index=2&amp;Name=Women">
     <fileTxt>
       <fileName>
         Women.NSDstat
@@ -409,7 +409,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
         </varQnty>
       </dimensns>
       <fileType>
-        Nesstar 200401
+        Nesstar 200801
       </fileType>
       <filePlac>
         Popstan Central Statistics Office
@@ -424,7 +424,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
       This questionnaire is to be administered to all women who care for a child that lives with them and is under the age of 5 years (see Q.4 of the HH listing). A separate form should be used for each eligible child. Questions should be administered to the mother or caretaker of the eligible child (see Q.7 of the HH listing).
     </notes>
   </fileDscr>
-  <fileDscr ID="F2" URI="Popstan MICS 2000.Nesstar?Index=3&amp;Name=Children">
+  <fileDscr ID="F2" URI="ihsn-popstan-mics-2000.Nesstar?Index=3&amp;Name=Children">
     <fileTxt>
       <fileName>
         Children.NSDstat
@@ -444,7 +444,7 @@ Data and metadata is provided to you for exclusive use. The data and/or metadata
         </varQnty>
       </dimensns>
       <fileType>
-        Nesstar 200401
+        Nesstar 200801
       </fileType>
       <filePlac>
         Popstan Central Statistics Office
